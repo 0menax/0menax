@@ -2,17 +2,17 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Beatriz Omena, Sou formada em **Análise e Desenvolvimento de Sistemas** e tenho como grande objetivo atuar como desenvolvedora front-end criando interfaces web modernas e bem estruturadas.
+Me chamo Beatriz Omena e sou formada em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de interfaces web modernas, responsivas e centradas na experiência do usuário.
 
-Trabalho com **`HTML, CSS, JavaScript, React, Figma e UX/UI`**, desenvolvendo aplicações e componentes voltados para a experiência do usuário.
+Trabalho com **HTML, CSS, JavaScript, React, Figma e UX/UI**, desenvolvendo aplicações front-end, componentes reutilizáveis e interfaces voltadas para performance, usabilidade e organização visual.
 
-Também possuo conhecimentos em **`UX e UI`**, o que me permite pensar não apenas na implementação, mas também na usabilidade e fluidez das interfaces.
- 
-Atualmente estou focada em evoluir no **TypeScript e React** enquanto desenvolvo meu portfólio e aplicações reais.
+Tenho experiência no desenvolvimento de projetos completos, desde prototipação e estruturação visual até implementação, deploy e manutenção de aplicações web.
 
-📌 Fique à vontade para explorar meus repositórios e conhecer meu trabalho.
-Você também pode me encontrar no
-"[Linkedin](https://www.linkedin.com/in/beatrizomena/)"
+Atualmente estou aprofundando meus conhecimentos em **React e TypeScript**, enquanto desenvolvo aplicações reais e evoluo continuamente meu portfólio profissional.
+
+🚀 Portfólio:[Clique aqui](https://0menax.github.io/portifolioBeatrizOmena/)
+
+💼 LinkedIn [Clique aqui](https://www.linkedin.com/in/beatrizomena/)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/beatrizomena/">
@@ -25,9 +25,18 @@ Você também pode me encontrar no
         <img 
             alt="Repositório" 
             title="Meu Repositório" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-7C68FF?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Repositório-C0B7FF?style=for-the-badge&logoColor=black&logo=repo"
         />
-    </a>
+        <a href="https://0menax.github.io/portifolioBeatrizOmena/">
+    <img 
+        alt="Portfólio" 
+        title="Meu Portfólio" 
+        src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Pessoal-7C68FF?style=for-the-badge&logo=browser&logoColor=white"
+    />
+</a>
+
+        
+  
 </p>
 
 ---
