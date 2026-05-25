@@ -10,10 +10,6 @@ Tenho experiência no desenvolvimento de projetos completos, desde prototipaçã
 
 Atualmente estou aprofundando meus conhecimentos em **React e TypeScript**, enquanto desenvolvo aplicações reais e evoluo continuamente meu portfólio profissional.
 
-🚀 Portfólio:[Clique aqui](https://0menax.github.io/portifolioBeatrizOmena/)
-
-💼 LinkedIn [Clique aqui](https://www.linkedin.com/in/beatrizomena/)
-
 <p align="center">
 <a href="https://www.linkedin.com/in/beatrizomena/">
         <img 
